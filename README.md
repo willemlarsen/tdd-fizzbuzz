@@ -45,6 +45,13 @@ Qunit
 * Test syntax with qunit
 * Live server qunit in browser
 
+Stretch goals
+
+Greater Than/Less Than etc.
+`x < 2`
+`y > 3`
+`z <= 1`
+`a !== 'a'`
 
 
 
