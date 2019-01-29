@@ -11,6 +11,12 @@ Red, Green, Refactor
 * Green - Write the *smallest amount of code* to make the test pass
 * Refactor - Clean up the code; delete stray comments, improve naming, remove duplication
 
+Variable Assignment
+
+`let apple = 'apple';`
+
+`const speedOfLight = '299 792 458 m / s'`
+
 
 Conditional blocks
 
@@ -49,8 +55,11 @@ Stretch goals
 
 Greater Than/Less Than etc.
 `x < 2`
+
 `y > 3`
+
 `z <= 1`
+
 `a !== 'a'`
 
 
