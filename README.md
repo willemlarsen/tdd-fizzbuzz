@@ -24,6 +24,10 @@ Blocks with else
     console.log('this will always happen');
 }`
 
+And!
+
+`&&`
+
 The modulo!
 
 `%`
@@ -38,7 +42,8 @@ Qunit
 
 * Creating a qunit html doc linked to qunit 
 * Creating qunit test js file
-* Testing with qunit
+* Test syntax with qunit
+* Live server qunit in browser
 
 
 
